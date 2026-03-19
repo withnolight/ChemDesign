@@ -1,0 +1,17 @@
+# 设置以下格式为二进制文件
+*.dwg binary
+*.pdf binary
+*.aspen binary
+*.hsc binary
+*.png binary
+*.jpg binary
+
+# 设置以下格式为文本文件
+*.md text
+*.txt text
+*.py text
+*.m text
+*.json text
+
+# 自动处理换行符
+* text=auto
